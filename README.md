@@ -1,5 +1,3 @@
-# skip-attribute-end-quote package
+A package for the [Atom text editor](https://atom.io/) that skips extra closing quotes as you type HTML/XML tag attributes.
 
-A package for the [Atom text editor](https://atom.io/).
-
-When you type the end quote after an HTML/XML tag attribute value, if there was already an existing end quote, it will be deleted. This prevents you from having to use the right arrow key to get out of the attribute and continue typing.
+When you type a closing quote after an attribute value, if there was already a closing quote, it will be deleted. This prevents you from having to use the right arrow key to get out of the attribute and continue typing.
