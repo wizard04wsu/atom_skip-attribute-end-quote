@@ -1,7 +1,7 @@
 {
   "name": "skip-attribute-end-quote",
   "main": "./lib/skip-attribute-end-quote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skips extra HTML/XML attribute closing quotes as you type",
   "keywords": [],
   "repository": "https://github.com/wizard04wsu/skip-attribute-end-quote",
