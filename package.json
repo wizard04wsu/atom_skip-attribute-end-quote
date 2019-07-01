@@ -5,7 +5,7 @@
   "description": "Skips existing HTML/XML attribute end-quotes as you type",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/skip-attribute-end-quote",
+  "repository": "https://github.com/wizard04wsu/skip-attribute-end-quote",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
